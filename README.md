@@ -33,4 +33,4 @@ The analysis is contained in `House_Sales_in_King_County.ipynb`, structured into
 6. Model Evaluation (R² scores)
 
 # Author
-Carl Wagenknecht – [LinkedIn](#) | [Portfolio](#)
+Carl Wagenknecht 

@@ -3,13 +3,13 @@
 This project uses data from King County, Washington to explore trends in house prices and build predictive regression models using Scikit-Learn.
 
 # Key Objectives
-- Perform Exploratory Data Analysis (EDA)
-- Visualize outliers and correlations using Seaborn
+- Perform Exploratory Data Analysis
+- Visualise outliers and correlations using Seaborn
 - Build and evaluate:
   - Simple Linear Regression
   - Multiple Linear Regression
   - Ridge Regression
-  - Polynomial Ridge Regression (degree 2)
+  - Polynomial Ridge Regression 
 
 # Tools & Libraries
 - Python
